@@ -172,7 +172,7 @@ A aplicação integra diferentes áreas do negócio em um único sistema, permit
 
 ## Desenvolvedor
 
-**Aristides Morais — Black Diamond**
+**Aristides Morais**
 
 Desenvolvedor responsável pela concepção, desenvolvimento, integração, testes, debugging e preparação do sistema para distribuição.
 
